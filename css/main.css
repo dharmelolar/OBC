@@ -3264,6 +3264,54 @@ html.no-csstransitions .hero-content {
 	}
 }
 
+@media screen and (max-width:1400px) {
+  
+}
+
+@media screen and (max-width:1200px) {
+
+}
+
+ @media screen and (max-width:800px) {
+  
+
+#slideshow{
+  display: none;
+}
+/* .content-carrousel {
+  width: 100%;
+	position: absolute;
+	float: right;
+	animation:none;
+	display: flex;
+}
+.content-carrousel figure {
+  width: 100%;
+  height: 120px;
+  border: 1px solid #3b444b;
+  overflow: hidden;
+  display: flex;
+  translate: none;
+}
+.content-carrousel img {
+	image-rendering: auto;
+	display: flex;
+	width: 100%;
+	height: 100%;
+} */
+
+} 
+
+@media screen and (max-width:600px) {
+  
+  
+
+}
+
+@media screen and (max-width:400px) {
+ 
+
+}
 
 /* ===================================================================
  * # footer 
