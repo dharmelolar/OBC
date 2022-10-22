@@ -1670,7 +1670,7 @@ input::-moz-focus-inner {
   left: .8rem;
 }
 
-.fst__meta .events-list__meta-date::before {
+.events-list__meta .events-list__meta-date::before {
   background-image: url(../images/icons/icon-calendar.svg);
 }
 
@@ -2514,6 +2514,7 @@ html.no-csstransitions .hero-content {
     left: 0;
     bottom: 6.4rem;
   }
+  
 
 }
 
@@ -2525,7 +2526,7 @@ html.no-csstransitions .hero-content {
 .s-about {
   padding-top: 19.6rem;
   padding-bottom: 19.6rem;
-  background-color: #083746;
+  background-color: #043746;
   color: rgba(255, 255, 255, 0.8);
 }
 
@@ -2747,8 +2748,8 @@ html.no-csstransitions .hero-content {
  *
  * ------------------------------------------------------------------- */
 .s-series {
-  padding-top: 19.2rem;
-  padding-bottom: 19.2rem;
+  padding-top: 10rem;
+  padding-bottom: 10rem;
   height: auto;
   background-color: #050505;
   background-image: url(../images/pattern.jpg);
@@ -2833,7 +2834,7 @@ html.no-csstransitions .hero-content {
 
 .series-content__buttons .btn {
   background-color: #000000;
-  border-color: #000000;
+  border-color: #fff;
 }
 
 .series-content__buttons .btn:hover,
@@ -2990,7 +2991,7 @@ html.no-csstransitions .hero-content {
 .s-social {
   padding-top: 10.4rem;
   padding-bottom: 9.6rem;
-  background-color: #ffffff;
+  background-color: #000;
 }
 
 .social-content {
@@ -3016,7 +3017,7 @@ html.no-csstransitions .hero-content {
 }
 
 .social-list a {
-  color: #000000;
+  color: #fff;
   display: -ms-flexbox;
   display: -webkit-flex;
   display: flex;
@@ -3151,7 +3152,7 @@ html.no-csstransitions .hero-content {
   padding-top: 2rem;
 	height: 400px;
 	width: 100%;
-	background-color: #6adecd;
+	background-color: #fff;
 	box-sizing: border-box;
 }
 
@@ -3320,7 +3321,7 @@ html.no-csstransitions .hero-content {
 .s-footer {
   padding-top: 12rem;
   padding-bottom: 8rem;
-  background-color:#063746;
+  background-color:#043746;
   font-family: "Open Sans", sans-serif;
   font-size: 1.7rem;
   line-height: 1.882;
