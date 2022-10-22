@@ -3260,7 +3260,7 @@ html.no-csstransitions .hero-content {
 @media screen and (max-width: 800px) {
   #slider {
     position: relative;
-    width: 500px;
+    width: 100%;
     height: auto;
    background-color: #fff;
     overflow: hidden;
