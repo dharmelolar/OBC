@@ -3399,11 +3399,13 @@ html.no-csstransitions .hero-content {
   margin-top: 4.8rem;
   padding-right: 80px;
   color: rgba(255, 255, 255, 0.3);
+  text-align: center;
 }
 
 .ss-copyright span {
   font-size: 15px;
   display: inline-block;
+  
 }
 
 .ss-copyright span::after {
