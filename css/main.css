@@ -1794,6 +1794,7 @@ input::-moz-focus-inner {
   position: absolute;
   top: 2.8rem;
   left: 0;
+  background-color: transparent;
 }
 
 /* -------------------------------------------------------------------
@@ -2056,7 +2057,7 @@ input::-moz-focus-inner {
   /* top: 12rem; */
   background-image: url("https://res.cloudinary.com/dharme/image/upload/v1666959065/IMG_5705_1_2_1_k10ffv.png");
   background-size: cover;
-  background-position-y: 10rem;
+  /* background-position-y: 10rem; */
   background-repeat: no-repeat;
 }
 
