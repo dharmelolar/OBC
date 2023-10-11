@@ -2968,11 +2968,8 @@ grid-row-gap: 10px;
 }
 
 @media screen and (max-width: 600px) {
-  .gallery-img-container{
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
+  .gallery{
+    display: none;
   }
 
 }
@@ -2986,6 +2983,8 @@ grid-row-gap: 10px;
   padding-top: 10.4rem;
   padding-bottom: 9.6rem;
   background-color: #000000;
+  border-top: 1px solid #fff;
+  border-bottom: 1px solid #fff;
 }
 
 .social-content {
